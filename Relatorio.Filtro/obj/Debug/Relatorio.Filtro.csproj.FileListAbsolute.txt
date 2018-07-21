@@ -1,0 +1,27 @@
+D:\DE MARIA\DeMariaTeste\Relatorio.Filtro\obj\Debug\Relatorio.Filtro.csprojResolveAssemblyReference.cache
+D:\DE MARIA\DeMariaTeste\Relatorio.Filtro\obj\Debug\Relatorio.Filtro.csproj.CoreCompileInputs.cache
+D:\DE MARIA\DeMariaTeste\Relatorio.Filtro\bin\Debug\Relatorio.Filtro.dll
+D:\DE MARIA\DeMariaTeste\Relatorio.Filtro\bin\Debug\Relatorio.Filtro.pdb
+D:\DE MARIA\DeMariaTeste\Relatorio.Filtro\bin\Debug\Entidades.dll
+D:\DE MARIA\DeMariaTeste\Relatorio.Filtro\bin\Debug\Entidades.pdb
+D:\DE MARIA\DeMariaTeste\Relatorio.Filtro\obj\Debug\Relatorio.Filtro.csproj.CopyComplete
+D:\DE MARIA\DeMariaTeste\Relatorio.Filtro\obj\Debug\Relatorio.Filtro.dll
+D:\DE MARIA\DeMariaTeste\Relatorio.Filtro\obj\Debug\Relatorio.Filtro.pdb
+D:\DE MARIA\PROJETO FONTE\Relatorio.Filtro\bin\Debug\Relatorio.Filtro.dll
+D:\DE MARIA\PROJETO FONTE\Relatorio.Filtro\bin\Debug\Relatorio.Filtro.pdb
+D:\DE MARIA\PROJETO FONTE\Relatorio.Filtro\bin\Debug\Entidades.dll
+D:\DE MARIA\PROJETO FONTE\Relatorio.Filtro\bin\Debug\Entidades.pdb
+D:\DE MARIA\PROJETO FONTE\Relatorio.Filtro\obj\Debug\Relatorio.Filtro.csprojResolveAssemblyReference.cache
+D:\DE MARIA\PROJETO FONTE\Relatorio.Filtro\obj\Debug\Relatorio.Filtro.csproj.CoreCompileInputs.cache
+D:\DE MARIA\PROJETO FONTE\Relatorio.Filtro\obj\Debug\Relatorio.Filtro.csproj.CopyComplete
+D:\DE MARIA\PROJETO FONTE\Relatorio.Filtro\obj\Debug\Relatorio.Filtro.dll
+D:\DE MARIA\PROJETO FONTE\Relatorio.Filtro\obj\Debug\Relatorio.Filtro.pdb
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorio.Filtro\bin\Debug\Relatorio.Filtro.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorio.Filtro\bin\Debug\Relatorio.Filtro.pdb
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorio.Filtro\bin\Debug\Entidades.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorio.Filtro\bin\Debug\Entidades.pdb
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorio.Filtro\obj\Debug\Relatorio.Filtro.csprojResolveAssemblyReference.cache
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorio.Filtro\obj\Debug\Relatorio.Filtro.csproj.CoreCompileInputs.cache
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorio.Filtro\obj\Debug\Relatorio.Filtro.csproj.CopyComplete
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorio.Filtro\obj\Debug\Relatorio.Filtro.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorio.Filtro\obj\Debug\Relatorio.Filtro.pdb

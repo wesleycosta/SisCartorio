@@ -1,0 +1,27 @@
+D:\DE MARIA\DeMariaTeste\Repositorio.Contratos\bin\Debug\Repositorio.Contratos.dll
+D:\DE MARIA\DeMariaTeste\Repositorio.Contratos\bin\Debug\Repositorio.Contratos.pdb
+D:\DE MARIA\DeMariaTeste\Repositorio.Contratos\bin\Debug\Entidades.dll
+D:\DE MARIA\DeMariaTeste\Repositorio.Contratos\bin\Debug\Entidades.pdb
+D:\DE MARIA\DeMariaTeste\Repositorio.Contratos\obj\Debug\Repositorio.Contratos.csprojResolveAssemblyReference.cache
+D:\DE MARIA\DeMariaTeste\Repositorio.Contratos\obj\Debug\Repositorio.Contratos.csproj.CoreCompileInputs.cache
+D:\DE MARIA\DeMariaTeste\Repositorio.Contratos\obj\Debug\Repositorio.Contratos.csproj.CopyComplete
+D:\DE MARIA\DeMariaTeste\Repositorio.Contratos\obj\Debug\Repositorio.Contratos.dll
+D:\DE MARIA\DeMariaTeste\Repositorio.Contratos\obj\Debug\Repositorio.Contratos.pdb
+D:\DE MARIA\PROJETO FONTE\Repositorio.Contratos\bin\Debug\Repositorio.Contratos.dll
+D:\DE MARIA\PROJETO FONTE\Repositorio.Contratos\bin\Debug\Repositorio.Contratos.pdb
+D:\DE MARIA\PROJETO FONTE\Repositorio.Contratos\bin\Debug\Entidades.dll
+D:\DE MARIA\PROJETO FONTE\Repositorio.Contratos\bin\Debug\Entidades.pdb
+D:\DE MARIA\PROJETO FONTE\Repositorio.Contratos\obj\Debug\Repositorio.Contratos.csprojResolveAssemblyReference.cache
+D:\DE MARIA\PROJETO FONTE\Repositorio.Contratos\obj\Debug\Repositorio.Contratos.csproj.CoreCompileInputs.cache
+D:\DE MARIA\PROJETO FONTE\Repositorio.Contratos\obj\Debug\Repositorio.Contratos.csproj.CopyComplete
+D:\DE MARIA\PROJETO FONTE\Repositorio.Contratos\obj\Debug\Repositorio.Contratos.dll
+D:\DE MARIA\PROJETO FONTE\Repositorio.Contratos\obj\Debug\Repositorio.Contratos.pdb
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Repositorio.Contratos\bin\Debug\Repositorio.Contratos.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Repositorio.Contratos\bin\Debug\Repositorio.Contratos.pdb
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Repositorio.Contratos\bin\Debug\Entidades.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Repositorio.Contratos\bin\Debug\Entidades.pdb
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Repositorio.Contratos\obj\Debug\Repositorio.Contratos.csprojResolveAssemblyReference.cache
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Repositorio.Contratos\obj\Debug\Repositorio.Contratos.csproj.CoreCompileInputs.cache
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Repositorio.Contratos\obj\Debug\Repositorio.Contratos.csproj.CopyComplete
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Repositorio.Contratos\obj\Debug\Repositorio.Contratos.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Repositorio.Contratos\obj\Debug\Repositorio.Contratos.pdb

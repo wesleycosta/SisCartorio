@@ -1,0 +1,9 @@
+D:\DE MARIA\PROJETO FONTE\Repositorio.Contratos\bin\Release\Repositorio.Contratos.dll
+D:\DE MARIA\PROJETO FONTE\Repositorio.Contratos\bin\Release\Repositorio.Contratos.pdb
+D:\DE MARIA\PROJETO FONTE\Repositorio.Contratos\bin\Release\Entidades.dll
+D:\DE MARIA\PROJETO FONTE\Repositorio.Contratos\bin\Release\Entidades.pdb
+D:\DE MARIA\PROJETO FONTE\Repositorio.Contratos\obj\Release\Repositorio.Contratos.csprojResolveAssemblyReference.cache
+D:\DE MARIA\PROJETO FONTE\Repositorio.Contratos\obj\Release\Repositorio.Contratos.csproj.CoreCompileInputs.cache
+D:\DE MARIA\PROJETO FONTE\Repositorio.Contratos\obj\Release\Repositorio.Contratos.csproj.CopyComplete
+D:\DE MARIA\PROJETO FONTE\Repositorio.Contratos\obj\Release\Repositorio.Contratos.dll
+D:\DE MARIA\PROJETO FONTE\Repositorio.Contratos\obj\Release\Repositorio.Contratos.pdb

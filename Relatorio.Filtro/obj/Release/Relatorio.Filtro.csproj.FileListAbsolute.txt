@@ -1,0 +1,9 @@
+D:\DE MARIA\PROJETO FONTE\Relatorio.Filtro\bin\Release\Relatorio.Filtro.dll
+D:\DE MARIA\PROJETO FONTE\Relatorio.Filtro\bin\Release\Relatorio.Filtro.pdb
+D:\DE MARIA\PROJETO FONTE\Relatorio.Filtro\bin\Release\Entidades.dll
+D:\DE MARIA\PROJETO FONTE\Relatorio.Filtro\bin\Release\Entidades.pdb
+D:\DE MARIA\PROJETO FONTE\Relatorio.Filtro\obj\Release\Relatorio.Filtro.csprojResolveAssemblyReference.cache
+D:\DE MARIA\PROJETO FONTE\Relatorio.Filtro\obj\Release\Relatorio.Filtro.csproj.CoreCompileInputs.cache
+D:\DE MARIA\PROJETO FONTE\Relatorio.Filtro\obj\Release\Relatorio.Filtro.csproj.CopyComplete
+D:\DE MARIA\PROJETO FONTE\Relatorio.Filtro\obj\Release\Relatorio.Filtro.dll
+D:\DE MARIA\PROJETO FONTE\Relatorio.Filtro\obj\Release\Relatorio.Filtro.pdb

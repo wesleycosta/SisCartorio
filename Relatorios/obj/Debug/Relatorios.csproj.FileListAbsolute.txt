@@ -1,0 +1,123 @@
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\Relatorios.dll
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\Relatorios.pdb
+D:\DE MARIA\DeMariaTeste\Relatorios\obj\Debug\Relatorios.csproj.CoreCompileInputs.cache
+D:\DE MARIA\DeMariaTeste\Relatorios\obj\Debug\Relatorios.dll
+D:\DE MARIA\DeMariaTeste\Relatorios\obj\Debug\Relatorios.pdb
+D:\DE MARIA\DeMariaTeste\Relatorios\obj\Debug\Relatorios.csprojResolveAssemblyReference.cache
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\App.config
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\Entidades.dll
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\Repositorio.Contratos.dll
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\Repositorio.Implementacoes.dll
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\Npgsql.dll
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\System.ValueTuple.dll
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\Entidades.pdb
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\Repositorio.Contratos.pdb
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\Repositorio.Implementacoes.pdb
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\Repositorio.Implementacoes.dll.config
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\Npgsql.pdb
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\Npgsql.xml
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\System.ValueTuple.xml
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DE MARIA\DeMariaTeste\Relatorios\obj\Debug\Relatorios.csproj.CopyComplete
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\MigraDoc.Rendering.dll
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\MigraDoc.RtfRendering.dll
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\PdfSharp.Charting.dll
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\PdfSharp.dll
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\MigraDoc.DocumentObjectModel.xml
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\MigraDoc.Rendering.xml
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\MigraDoc.RtfRendering.xml
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\PdfSharp.xml
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\PdfSharp.Charting.xml
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\de\MigraDoc.Rendering.resources.dll
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\de\PdfSharp.resources.dll
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\Relatorio.Filtro.dll
+D:\DE MARIA\DeMariaTeste\Relatorios\bin\Debug\Relatorio.Filtro.pdb
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\App.config
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Relatorios.dll
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Relatorios.pdb
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Entidades.dll
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\MigraDoc.Rendering.dll
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\MigraDoc.RtfRendering.dll
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\PdfSharp.Charting.dll
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\PdfSharp.dll
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Relatorio.Filtro.dll
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Repositorio.Contratos.dll
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Repositorio.Implementacoes.dll
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Npgsql.dll
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\System.ValueTuple.dll
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Entidades.pdb
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Relatorio.Filtro.pdb
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Repositorio.Contratos.pdb
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Repositorio.Implementacoes.pdb
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Repositorio.Implementacoes.dll.config
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\MigraDoc.DocumentObjectModel.xml
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\MigraDoc.Rendering.xml
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\MigraDoc.RtfRendering.xml
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\PdfSharp.xml
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\PdfSharp.Charting.xml
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Npgsql.pdb
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Npgsql.xml
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\System.ValueTuple.xml
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\de\MigraDoc.Rendering.resources.dll
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\de\PdfSharp.resources.dll
+D:\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\DE MARIA\PROJETO FONTE\Relatorios\obj\Debug\Relatorios.csprojResolveAssemblyReference.cache
+D:\DE MARIA\PROJETO FONTE\Relatorios\obj\Debug\Relatorios.csproj.CoreCompileInputs.cache
+D:\DE MARIA\PROJETO FONTE\Relatorios\obj\Debug\Relatorios.csproj.CopyComplete
+D:\DE MARIA\PROJETO FONTE\Relatorios\obj\Debug\Relatorios.dll
+D:\DE MARIA\PROJETO FONTE\Relatorios\obj\Debug\Relatorios.pdb
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\App.config
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Relatorios.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Relatorios.pdb
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Entidades.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\MigraDoc.DocumentObjectModel.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\MigraDoc.Rendering.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\MigraDoc.RtfRendering.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\PdfSharp.Charting.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\PdfSharp.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Relatorio.Filtro.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Repositorio.Contratos.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Repositorio.Implementacoes.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Npgsql.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\System.ValueTuple.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Entidades.pdb
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Relatorio.Filtro.pdb
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Repositorio.Contratos.pdb
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Repositorio.Implementacoes.pdb
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Repositorio.Implementacoes.dll.config
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\MigraDoc.DocumentObjectModel.xml
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\MigraDoc.Rendering.xml
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\MigraDoc.RtfRendering.xml
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\PdfSharp.xml
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\PdfSharp.Charting.xml
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Npgsql.pdb
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\Npgsql.xml
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\System.ValueTuple.xml
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\de\MigraDoc.Rendering.resources.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\de\MigraDoc.RtfRendering.resources.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\de\PdfSharp.resources.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\obj\Debug\Relatorios.csprojResolveAssemblyReference.cache
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\obj\Debug\Relatorios.csproj.CoreCompileInputs.cache
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\obj\Debug\Relatorios.csproj.CopyComplete
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\obj\Debug\Relatorios.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Relatorios\obj\Debug\Relatorios.pdb

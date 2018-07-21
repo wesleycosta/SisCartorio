@@ -1,0 +1,141 @@
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.csprojResolveAssemblyReference.cache
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Properties.Resources.resources
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.csproj.GenerateResource.cache
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.csproj.CoreCompileInputs.cache
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\App.config
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\Entidades.dll
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\Repositorio.Contratos.dll
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\Repositorio.Implementacoes.dll
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\Npgsql.dll
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\System.ValueTuple.dll
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\Entidades.pdb
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\Repositorio.Contratos.pdb
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\Repositorio.Implementacoes.pdb
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\Repositorio.Implementacoes.dll.config
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\Npgsql.pdb
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\Npgsql.xml
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\System.ValueTuple.xml
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.csproj.CopyComplete
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Nascimento.FrmCadNascimento.resources
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.FrmInicial.resources
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Nascimento.FrmNascimentoInicial.resources
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Obito.FrmObitoInicial.resources
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Casamento.FrmCasamentoInicial.resources
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Casamento.FrmCadCasamento.resources
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Obito.FrmCadObito.resources
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Relatorio.FrmGerarRelatorio.resources
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Relatorio.FrmDefinirLayout.resources
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Relatorio.FrmCadAtributo.resources
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Relatorio.Criar.FrmCriarRelatorioInicial.resources
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\Relatorios.dll
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\Relatorios.pdb
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\PdfSharp.dll
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\PdfSharp.xml
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\de\PdfSharp.resources.dll
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\Teste Prático.exe.config
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\Teste Prático.exe
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\Teste Prático.pdb
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\obj\Debug\Teste Prático.exe
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\obj\Debug\Teste Prático.pdb
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Relatorio.Modelos.FrmRelatoriosModelos.resources
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Relatorio.Modelos.FrmFiltrarRelatorio.resources
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\Relatorio.Filtro.dll
+D:\DE MARIA\DeMariaTeste\AplicacaoWindowsForm\bin\Debug\Relatorio.Filtro.pdb
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\App.config
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Teste Prático.exe.config
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Teste Prático.exe
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Teste Prático.pdb
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Entidades.dll
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Relatorio.Filtro.dll
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Relatorios.dll
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Repositorio.Contratos.dll
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Repositorio.Implementacoes.dll
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\PdfSharp.dll
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Npgsql.dll
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\System.ValueTuple.dll
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Entidades.pdb
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Relatorio.Filtro.pdb
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Relatorios.pdb
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Repositorio.Contratos.pdb
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Repositorio.Implementacoes.pdb
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Repositorio.Implementacoes.dll.config
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\PdfSharp.xml
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Npgsql.pdb
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Npgsql.xml
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\System.ValueTuple.xml
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\de\PdfSharp.resources.dll
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.csprojResolveAssemblyReference.cache
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.FrmInicial.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Properties.Resources.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Casamento.FrmCadCasamento.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Casamento.FrmCasamentoInicial.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Nascimento.FrmNascimentoInicial.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Nascimento.FrmCadNascimento.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Obito.FrmCadObito.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Obito.FrmObitoInicial.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Relatorio.FrmCadAtributo.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Relatorio.Criar.FrmCriarRelatorioInicial.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Relatorio.FrmDefinirLayout.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Relatorio.FrmCadModeloRelatorio.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Relatorio.Modelos.FrmFiltrarRelatorio.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Relatorio.Modelos.FrmRelatoriosModelos.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.csproj.GenerateResource.cache
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.csproj.CoreCompileInputs.cache
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.csproj.CopyComplete
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\Teste Prático.exe
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\Teste Prático.pdb
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\App.config
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Teste Prático.exe.config
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Teste Prático.exe
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Teste Prático.pdb
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Entidades.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Relatorio.Filtro.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Relatorios.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Repositorio.Contratos.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Repositorio.Implementacoes.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\PdfSharp.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Npgsql.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\System.ValueTuple.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Entidades.pdb
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Relatorio.Filtro.pdb
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Relatorios.pdb
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Repositorio.Contratos.pdb
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Repositorio.Implementacoes.pdb
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Repositorio.Implementacoes.dll.config
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\PdfSharp.xml
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Npgsql.pdb
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\Npgsql.xml
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\System.ValueTuple.xml
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Debug\de\PdfSharp.resources.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.csprojResolveAssemblyReference.cache
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.FrmInicial.resources
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Properties.Resources.resources
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Casamento.FrmCadCasamento.resources
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Casamento.FrmCasamentoInicial.resources
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Nascimento.FrmNascimentoInicial.resources
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Nascimento.FrmCadNascimento.resources
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Obito.FrmCadObito.resources
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Obito.FrmObitoInicial.resources
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Relatorio.FrmCadAtributo.resources
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Relatorio.Criar.FrmCriarRelatorioInicial.resources
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Relatorio.FrmDefinirLayout.resources
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Relatorio.FrmCadModeloRelatorio.resources
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Relatorio.Modelos.FrmFiltrarRelatorio.resources
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.Telas.Relatorio.Modelos.FrmRelatoriosModelos.resources
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.csproj.GenerateResource.cache
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.csproj.CoreCompileInputs.cache
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\AplicacaoWindowsForm.csproj.CopyComplete
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\Teste Prático.exe
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Debug\Teste Prático.pdb

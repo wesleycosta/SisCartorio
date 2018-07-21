@@ -1,0 +1,17 @@
+D:\DE MARIA\DeMariaTeste\Entidades\bin\Debug\Entidades.dll
+D:\DE MARIA\DeMariaTeste\Entidades\bin\Debug\Entidades.pdb
+D:\DE MARIA\DeMariaTeste\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\DE MARIA\DeMariaTeste\Entidades\obj\Debug\Entidades.dll
+D:\DE MARIA\DeMariaTeste\Entidades\obj\Debug\Entidades.pdb
+D:\DE MARIA\DeMariaTeste\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\DE MARIA\PROJETO FONTE\Entidades\bin\Debug\Entidades.dll
+D:\DE MARIA\PROJETO FONTE\Entidades\bin\Debug\Entidades.pdb
+D:\DE MARIA\PROJETO FONTE\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\DE MARIA\PROJETO FONTE\Entidades\obj\Debug\Entidades.dll
+D:\DE MARIA\PROJETO FONTE\Entidades\obj\Debug\Entidades.pdb
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Entidades\bin\Debug\Entidades.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Entidades\bin\Debug\Entidades.pdb
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Entidades\obj\Debug\Entidades.dll
+D:\Wesley\Fontes\DE MARIA\PROJETO FONTE\Entidades\obj\Debug\Entidades.pdb

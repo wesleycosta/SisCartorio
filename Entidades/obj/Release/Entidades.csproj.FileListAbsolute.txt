@@ -1,0 +1,6 @@
+D:\DE MARIA\PROJETO FONTE\Entidades\bin\Release\Entidades.dll
+D:\DE MARIA\PROJETO FONTE\Entidades\bin\Release\Entidades.pdb
+D:\DE MARIA\PROJETO FONTE\Entidades\obj\Release\Entidades.csprojResolveAssemblyReference.cache
+D:\DE MARIA\PROJETO FONTE\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+D:\DE MARIA\PROJETO FONTE\Entidades\obj\Release\Entidades.dll
+D:\DE MARIA\PROJETO FONTE\Entidades\obj\Release\Entidades.pdb

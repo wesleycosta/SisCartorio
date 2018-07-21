@@ -1,0 +1,47 @@
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\App.config
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\Teste Prático.exe.config
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\Teste Prático.exe
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\Teste Prático.pdb
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\Entidades.dll
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\Relatorio.Filtro.dll
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\Relatorios.dll
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\Repositorio.Contratos.dll
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\Repositorio.Implementacoes.dll
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\PdfSharp.dll
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\Npgsql.dll
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\System.ValueTuple.dll
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\Entidades.pdb
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\Relatorio.Filtro.pdb
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\Relatorios.pdb
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\Repositorio.Contratos.pdb
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\Repositorio.Implementacoes.pdb
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\Repositorio.Implementacoes.dll.config
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\PdfSharp.xml
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\Npgsql.pdb
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\Npgsql.xml
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\System.ValueTuple.xml
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\bin\Release\de\PdfSharp.resources.dll
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Release\AplicacaoWindowsForm.csprojResolveAssemblyReference.cache
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Release\AplicacaoWindowsForm.FrmInicial.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Release\AplicacaoWindowsForm.Properties.Resources.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Release\AplicacaoWindowsForm.Telas.Casamento.FrmCadCasamento.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Release\AplicacaoWindowsForm.Telas.Casamento.FrmCasamentoInicial.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Release\AplicacaoWindowsForm.Telas.Nascimento.FrmNascimentoInicial.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Release\AplicacaoWindowsForm.Telas.Nascimento.FrmCadNascimento.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Release\AplicacaoWindowsForm.Telas.Obito.FrmCadObito.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Release\AplicacaoWindowsForm.Telas.Obito.FrmObitoInicial.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Release\AplicacaoWindowsForm.Telas.Relatorio.FrmCadAtributo.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Release\AplicacaoWindowsForm.Telas.Relatorio.Criar.FrmCriarRelatorioInicial.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Release\AplicacaoWindowsForm.Telas.Relatorio.FrmDefinirLayout.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Release\AplicacaoWindowsForm.Telas.Relatorio.FrmCadModeloRelatorio.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Release\AplicacaoWindowsForm.Telas.Relatorio.Modelos.FrmFiltrarRelatorio.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Release\AplicacaoWindowsForm.Telas.Relatorio.Modelos.FrmRelatoriosModelos.resources
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Release\AplicacaoWindowsForm.csproj.GenerateResource.cache
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Release\AplicacaoWindowsForm.csproj.CoreCompileInputs.cache
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Release\AplicacaoWindowsForm.csproj.CopyComplete
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Release\Teste Prático.exe
+D:\DE MARIA\PROJETO FONTE\AplicacaoWindowsForm\obj\Release\Teste Prático.pdb
